@@ -1,1 +1,1 @@
-console.log("Maa chudaye VIT"); 
+console.log("Maa chudaye VIT");  
